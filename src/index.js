@@ -1,3 +1,8 @@
+import React, { Component } from "react";
+import ReactDOM from "react-dom";
+
+import App from "./App";
+
 function Square(props) {
   return (
     <button className="square" onClick={props.onClick}>
