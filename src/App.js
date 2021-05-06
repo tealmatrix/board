@@ -5,10 +5,7 @@ import App from "./App";
 import "./App.css";
 import "./index.js";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
+
 
     function Square(props) {
   return (
